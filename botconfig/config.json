@@ -2,23 +2,23 @@
     "token": "GET from: https://discord.com/developers/applications",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "761970201910050826"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
     "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
-        "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "text": "{prefix}help | HostilaNodes",
+        "text2": "By: VeryDoOp",
+        "type": "STREAMING",
+        "url": "https://twitch.tv/#"
     },
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
+                "host": "node03.lavalink.eu",
                 "port": 2333,
-                "password": "youshallnotpass"
+                "password": "Raccoon"
             }
         ]
     },
